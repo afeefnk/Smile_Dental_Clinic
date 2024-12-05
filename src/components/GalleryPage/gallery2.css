@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'AtypDisplay';
+    src: url('../../fonts/AtypDisplayTRIAL-Semibold-BF65727125c6fc9.otf') format('truetype');
+    font-weight: normal; /* Adjust based on the font's weight */
+    font-style: normal; /* Adjust based on the font's style */
+  }
+
+  @font-face {
+    font-family: 'AtypDisplayR';
+    src: url('../../fonts/AtypDisplayTRIAL-Regular-BF65727125d566e.otf') format('truetype');
+    font-weight: normal; /* Adjust based on the font's weight */
+    font-style: normal; /* Adjust based on the font's style */
+  }
+
+
+h2 {
+    font-family: 'AtypDisplay', sans-serif;
+    font-weight:normal;
+    padding: 25px 0;
+}
